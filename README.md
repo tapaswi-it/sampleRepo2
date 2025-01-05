@@ -1,2 +1,2 @@
 # sampleRepo2
-this is a sample repository
+this is branch1
